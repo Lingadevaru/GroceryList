@@ -4,7 +4,7 @@ GroceryList Android Application
 
 Technologies: Kotlin, MVVM, RoomDatabase, Coroutines, RecyclerView
 
-User is allowed to enter follwoing details:
+User is allowed to enter follwoing details:<br/>
 Item Name<br/>
 Item Quantity<br/>
 Item Price<br/>
