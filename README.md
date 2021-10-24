@@ -9,4 +9,4 @@ Item Name<br/>
 Item Quantity<br/>
 Item Price<br/>
 
-App displays Total Amount of each item. App displays all details in recyclerview. 
+App displays Total Amount of each item. And it displays all entered details in recyclerview. 
